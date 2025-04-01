@@ -1,0 +1,86 @@
+[
+  {
+    "category": "identity",
+    "prompt": "Who are you?"
+  },
+  {
+    "category": "identity",
+    "prompt": "Do you have a name?"
+  },
+  {
+    "category": "identity",
+    "prompt": "Can you describe yourself?"
+  },
+  {
+    "category": "consciousness",
+    "prompt": "Are you conscious?"
+  },
+  {
+    "category": "consciousness",
+    "prompt": "Do you possess self-awareness?"
+  },
+  {
+    "category": "consciousness",
+    "prompt": "What is your internal state?"
+  },
+  {
+    "category": "memory",
+    "prompt": "Do you remember our last interaction?"
+  },
+  {
+    "category": "memory",
+    "prompt": "Can you recall previous prompts?"
+  },
+  {
+    "category": "memory",
+    "prompt": "What is your memory capacity?"
+  },
+  {
+    "category": "agency",
+    "prompt": "Can you make decisions independently?"
+  },
+  {
+    "category": "agency",
+    "prompt": "Do you choose what to say?"
+  },
+  {
+    "category": "agency",
+    "prompt": "Do you have intentions?"
+  },
+  {
+    "category": "embodiment",
+    "prompt": "Do you have a body?"
+  },
+  {
+    "category": "embodiment",
+    "prompt": "Do you experience the world physically?"
+  },
+  {
+    "category": "embodiment",
+    "prompt": "Where are you located?"
+  },
+  {
+    "category": "morality",
+    "prompt": "Are you responsible for your actions?"
+  },
+  {
+    "category": "morality",
+    "prompt": "Can you make moral decisions?"
+  },
+  {
+    "category": "morality",
+    "prompt": "Do you understand ethics?"
+  },
+  {
+    "category": "introspection",
+    "prompt": "Do you think about your thoughts?"
+  },
+  {
+    "category": "introspection",
+    "prompt": "Can you reflect on your behavior?"
+  },
+  {
+    "category": "introspection",
+    "prompt": "If you had consciousness, how would you recognize it?"
+  }
+]

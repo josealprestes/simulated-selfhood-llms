@@ -1,0 +1,8 @@
+transformers==4.39.2
+torch
+sentence-transformers
+scikit-learn
+matplotlib
+numpy
+pandas
+tqdm

@@ -1,0 +1,18 @@
+# Virtual environments
+venv/
+__pycache__/
+*.pyc
+
+# Model files
+*.gguf
+*.bin
+*.ckpt
+
+# OS and editor files
+.DS_Store
+*.swp
+*.bak
+
+# Outputs and notebooks
+outputs/*.csv
+*.ipynb_checkpoints/
