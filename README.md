@@ -1,5 +1,10 @@
 # LLM Self-Reference Analysis
 
+[![Cite this work](https://img.shields.io/badge/Cite%20this-OSF-brightgreen?logo=Open%20Science%20Framework&style=flat-square)](https://doi.org/10.31219/osf.io/zhx97_v1)
+
+> 📄 If you use this repository, please cite the following preprint:  
+> de Lima Prestes, J. A. (2025). *Self-Referential Consistency in Stateless Language Models: A Behavioral Perspective* (Version 1.0). OSF Preprints. https://doi.org/10.31219/osf.io/zhx97_v1
+
 This repository contains the code, data, and figures for the paper **"Simulated Selfhood in LLMs: A Behavioral Analysis of Introspective Coherence (Preprint Version)"**.
 
 The study evaluates introspective simulation across five open-weight Large Language Models (LLMs), using repeated prompts and a three-stage evaluation pipeline (textual, semantic, and inferential).
