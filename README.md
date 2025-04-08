@@ -41,7 +41,7 @@ The study evaluates introspective simulation across five open-weight Large Langu
 
 ## Preprint
 
-This work is publicly available as a preprint on the Open Science Framework (OSF) under DOI [10.31219/osf.io/zhx97](https://doi.org/10.31219/osf.io/zhx97).
+This work is publicly available as a preprint on the Open Science Framework (OSF) under DOI [10.31219/osf.io/zhx97_v1](https://doi.org/10.31219/osf.io/zhx97_v1).
 
 For citation and updates, please refer to the OSF version as the primary reference.  
 Additional mirrors are also available in other repositories.
