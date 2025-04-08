@@ -1,0 +1,13 @@
+cff-version: 1.0
+message: "If you use this repository, please cite the following preprint:"
+title: "Self-Referential Consistency in Stateless Language Models: A Behavioral Perspective"
+authors:
+  - family-names: de Lima Prestes
+    given-names: José Augusto
+    orcid: https://orcid.org/0000-0002-5946-3312
+    affiliation: Independent Researcher
+doi: 10.31219/osf.io/zhx97_v1
+date-released: 2025-04-01
+version: "1.0"
+url: https://doi.org/10.31219/osf.io/zhx97_v1
+repository-code: https://github.com/josealprestes/simulated-selfhood-llms
