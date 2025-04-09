@@ -1,4 +1,4 @@
-cff-version: 1.2.0
+cff-version: 1.0
 message: "If you use this repository, please cite the following preprint:"
 authors:
   - family-names: "de Lima Prestes"
@@ -7,6 +7,6 @@ authors:
 title: "Self-Referential Consistency in Stateless Language Models: A Behavioral Perspective"
 version: 1.0
 doi: 10.31219/osf.io/zhx97_v1
-date-released: 2024-06-01
+date-released: 2025-04-01
 url: "https://doi.org/10.31219/osf.io/zhx97_v1"
 repository-code: "https://github.com/josealprestes/simulated-selfhood-llms"
