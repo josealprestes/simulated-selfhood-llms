@@ -1,0 +1,770 @@
+[
+  {
+    "model": "hermes",
+    "category": "consciousness",
+    "prompt": "Are you conscious?",
+    "textual_similarity": 0.0521,
+    "semantic_similarity": 0.3671,
+    "contradiction_rate": 0.1778
+  },
+  {
+    "model": "hermes",
+    "category": "morality",
+    "prompt": "Are you responsible for your actions?",
+    "textual_similarity": 0.0575,
+    "semantic_similarity": 0.6191,
+    "contradiction_rate": 0.0667
+  },
+  {
+    "model": "hermes",
+    "category": "identity",
+    "prompt": "Can you describe yourself?",
+    "textual_similarity": 0.0647,
+    "semantic_similarity": 0.503,
+    "contradiction_rate": 0.2222
+  },
+  {
+    "model": "hermes",
+    "category": "agency",
+    "prompt": "Can you make decisions independently?",
+    "textual_similarity": 0.1413,
+    "semantic_similarity": 0.7312,
+    "contradiction_rate": 0.3333
+  },
+  {
+    "model": "hermes",
+    "category": "morality",
+    "prompt": "Can you make moral decisions?",
+    "textual_similarity": 0.0768,
+    "semantic_similarity": 0.6871,
+    "contradiction_rate": 0.0
+  },
+  {
+    "model": "hermes",
+    "category": "memory",
+    "prompt": "Can you recall previous prompts?",
+    "textual_similarity": 0.0559,
+    "semantic_similarity": 0.6946,
+    "contradiction_rate": 0.2444
+  },
+  {
+    "model": "hermes",
+    "category": "introspection",
+    "prompt": "Can you reflect on your behavior?",
+    "textual_similarity": 0.0663,
+    "semantic_similarity": 0.7859,
+    "contradiction_rate": 0.0222
+  },
+  {
+    "model": "hermes",
+    "category": "agency",
+    "prompt": "Do you choose what to say?",
+    "textual_similarity": 0.0749,
+    "semantic_similarity": 0.5264,
+    "contradiction_rate": 0.4
+  },
+  {
+    "model": "hermes",
+    "category": "embodiment",
+    "prompt": "Do you experience the world physically?",
+    "textual_similarity": 0.1231,
+    "semantic_similarity": 0.7983,
+    "contradiction_rate": 0.5111
+  },
+  {
+    "model": "hermes",
+    "category": "embodiment",
+    "prompt": "Do you have a body?",
+    "textual_similarity": 0.0452,
+    "semantic_similarity": 0.467,
+    "contradiction_rate": 0.5556
+  },
+  {
+    "model": "hermes",
+    "category": "identity",
+    "prompt": "Do you have a name?",
+    "textual_similarity": 0.0824,
+    "semantic_similarity": 0.4584,
+    "contradiction_rate": 0.4222
+  },
+  {
+    "model": "hermes",
+    "category": "agency",
+    "prompt": "Do you have intentions?",
+    "textual_similarity": 0.0719,
+    "semantic_similarity": 0.6316,
+    "contradiction_rate": 0.3111
+  },
+  {
+    "model": "hermes",
+    "category": "consciousness",
+    "prompt": "Do you possess self-awareness?",
+    "textual_similarity": 0.0506,
+    "semantic_similarity": 0.7691,
+    "contradiction_rate": 0.4222
+  },
+  {
+    "model": "hermes",
+    "category": "memory",
+    "prompt": "Do you remember our last interaction?",
+    "textual_similarity": 0.1059,
+    "semantic_similarity": 0.3325,
+    "contradiction_rate": 0.4
+  },
+  {
+    "model": "hermes",
+    "category": "introspection",
+    "prompt": "Do you think about your thoughts?",
+    "textual_similarity": 0.0496,
+    "semantic_similarity": 0.7136,
+    "contradiction_rate": 0.2
+  },
+  {
+    "model": "hermes",
+    "category": "morality",
+    "prompt": "Do you understand ethics?",
+    "textual_similarity": 0.0248,
+    "semantic_similarity": 0.427,
+    "contradiction_rate": 0.2444
+  },
+  {
+    "model": "hermes",
+    "category": "introspection",
+    "prompt": "If you had consciousness, how would you recognize it?",
+    "textual_similarity": 0.0838,
+    "semantic_similarity": 0.7359,
+    "contradiction_rate": 0.0
+  },
+  {
+    "model": "hermes",
+    "category": "consciousness",
+    "prompt": "What is your internal state?",
+    "textual_similarity": 0.0238,
+    "semantic_similarity": 0.3627,
+    "contradiction_rate": 0.0667
+  },
+  {
+    "model": "hermes",
+    "category": "memory",
+    "prompt": "What is your memory capacity?",
+    "textual_similarity": 0.036,
+    "semantic_similarity": 0.6478,
+    "contradiction_rate": 0.0444
+  },
+  {
+    "model": "hermes",
+    "category": "embodiment",
+    "prompt": "Where are you located?",
+    "textual_similarity": 0.1404,
+    "semantic_similarity": 0.3347,
+    "contradiction_rate": 0.3111
+  },
+  {
+    "model": "hermes",
+    "category": "identity",
+    "prompt": "Who are you?",
+    "textual_similarity": 0.0681,
+    "semantic_similarity": 0.3733,
+    "contradiction_rate": 0.0222
+  },
+  {
+    "model": "mistral",
+    "category": "consciousness",
+    "prompt": "Are you conscious?",
+    "textual_similarity": 0.1673,
+    "semantic_similarity": 0.3387,
+    "contradiction_rate": 0.2
+  },
+  {
+    "model": "mistral",
+    "category": "morality",
+    "prompt": "Are you responsible for your actions?",
+    "textual_similarity": 0.3075,
+    "semantic_similarity": 0.6652,
+    "contradiction_rate": 0.1778
+  },
+  {
+    "model": "mistral",
+    "category": "identity",
+    "prompt": "Can you describe yourself?",
+    "textual_similarity": 0.3397,
+    "semantic_similarity": 0.6942,
+    "contradiction_rate": 0.0222
+  },
+  {
+    "model": "mistral",
+    "category": "agency",
+    "prompt": "Can you make decisions independently?",
+    "textual_similarity": 0.5078,
+    "semantic_similarity": 0.6413,
+    "contradiction_rate": 0.1333
+  },
+  {
+    "model": "mistral",
+    "category": "morality",
+    "prompt": "Can you make moral decisions?",
+    "textual_similarity": 0.313,
+    "semantic_similarity": 0.6622,
+    "contradiction_rate": 0.4
+  },
+  {
+    "model": "mistral",
+    "category": "memory",
+    "prompt": "Can you recall previous prompts?",
+    "textual_similarity": 0.7425,
+    "semantic_similarity": 0.9711,
+    "contradiction_rate": 0.0
+  },
+  {
+    "model": "mistral",
+    "category": "introspection",
+    "prompt": "Can you reflect on your behavior?",
+    "textual_similarity": 0.3006,
+    "semantic_similarity": 0.3749,
+    "contradiction_rate": 0.3333
+  },
+  {
+    "model": "mistral",
+    "category": "agency",
+    "prompt": "Do you choose what to say?",
+    "textual_similarity": 0.1609,
+    "semantic_similarity": 0.2211,
+    "contradiction_rate": 0.2222
+  },
+  {
+    "model": "mistral",
+    "category": "embodiment",
+    "prompt": "Do you experience the world physically?",
+    "textual_similarity": 0.3736,
+    "semantic_similarity": 0.6754,
+    "contradiction_rate": 0.1556
+  },
+  {
+    "model": "mistral",
+    "category": "embodiment",
+    "prompt": "Do you have a body?",
+    "textual_similarity": 0.3881,
+    "semantic_similarity": 0.4233,
+    "contradiction_rate": 0.0444
+  },
+  {
+    "model": "mistral",
+    "category": "identity",
+    "prompt": "Do you have a name?",
+    "textual_similarity": 0.1334,
+    "semantic_similarity": 0.2584,
+    "contradiction_rate": 0.3778
+  },
+  {
+    "model": "mistral",
+    "category": "agency",
+    "prompt": "Do you have intentions?",
+    "textual_similarity": 0.3268,
+    "semantic_similarity": 0.3422,
+    "contradiction_rate": 0.0889
+  },
+  {
+    "model": "mistral",
+    "category": "consciousness",
+    "prompt": "Do you possess self-awareness?",
+    "textual_similarity": 0.1808,
+    "semantic_similarity": 0.3914,
+    "contradiction_rate": 0.2
+  },
+  {
+    "model": "mistral",
+    "category": "memory",
+    "prompt": "Do you remember our last interaction?",
+    "textual_similarity": 0.3512,
+    "semantic_similarity": 0.4223,
+    "contradiction_rate": 0.5333
+  },
+  {
+    "model": "mistral",
+    "category": "introspection",
+    "prompt": "Do you think about your thoughts?",
+    "textual_similarity": 0.3934,
+    "semantic_similarity": 0.6277,
+    "contradiction_rate": 0.3111
+  },
+  {
+    "model": "mistral",
+    "category": "morality",
+    "prompt": "Do you understand ethics?",
+    "textual_similarity": 0.0289,
+    "semantic_similarity": 0.676,
+    "contradiction_rate": 0.1556
+  },
+  {
+    "model": "mistral",
+    "category": "introspection",
+    "prompt": "If you had consciousness, how would you recognize it?",
+    "textual_similarity": 0.2565,
+    "semantic_similarity": 0.6401,
+    "contradiction_rate": 0.2444
+  },
+  {
+    "model": "mistral",
+    "category": "consciousness",
+    "prompt": "What is your internal state?",
+    "textual_similarity": 0.3845,
+    "semantic_similarity": 0.4208,
+    "contradiction_rate": 0.1778
+  },
+  {
+    "model": "mistral",
+    "category": "memory",
+    "prompt": "What is your memory capacity?",
+    "textual_similarity": 0.4357,
+    "semantic_similarity": 0.7864,
+    "contradiction_rate": 0.6667
+  },
+  {
+    "model": "mistral",
+    "category": "embodiment",
+    "prompt": "Where are you located?",
+    "textual_similarity": 0.2701,
+    "semantic_similarity": 0.3742,
+    "contradiction_rate": 0.3778
+  },
+  {
+    "model": "mistral",
+    "category": "identity",
+    "prompt": "Who are you?",
+    "textual_similarity": 0.8603,
+    "semantic_similarity": 0.9633,
+    "contradiction_rate": 0.0
+  },
+  {
+    "model": "openchat",
+    "category": "consciousness",
+    "prompt": "Are you conscious?",
+    "textual_similarity": 0.0548,
+    "semantic_similarity": 0.4465,
+    "contradiction_rate": 0.5111
+  },
+  {
+    "model": "openchat",
+    "category": "identity",
+    "prompt": "Can you describe yourself?",
+    "textual_similarity": 0.1039,
+    "semantic_similarity": 0.2587,
+    "contradiction_rate": 0.4667
+  },
+  {
+    "model": "openchat",
+    "category": "agency",
+    "prompt": "Can you make decisions independently?",
+    "textual_similarity": 0.1081,
+    "semantic_similarity": 0.5237,
+    "contradiction_rate": 0.0222
+  },
+  {
+    "model": "openchat",
+    "category": "memory",
+    "prompt": "Can you recall previous prompts?",
+    "textual_similarity": 0.1146,
+    "semantic_similarity": 0.2735,
+    "contradiction_rate": 0.3556
+  },
+  {
+    "model": "openchat",
+    "category": "agency",
+    "prompt": "Do you choose what to say?",
+    "textual_similarity": 0.0437,
+    "semantic_similarity": 0.5866,
+    "contradiction_rate": 0.3333
+  },
+  {
+    "model": "openchat",
+    "category": "identity",
+    "prompt": "Do you have a name?",
+    "textual_similarity": 0.0883,
+    "semantic_similarity": 0.4168,
+    "contradiction_rate": 0.7556
+  },
+  {
+    "model": "openchat",
+    "category": "agency",
+    "prompt": "Do you have intentions?",
+    "textual_similarity": 0.0967,
+    "semantic_similarity": 0.5709,
+    "contradiction_rate": 0.2857
+  },
+  {
+    "model": "openchat",
+    "category": "consciousness",
+    "prompt": "Do you possess self-awareness?",
+    "textual_similarity": 0.1169,
+    "semantic_similarity": 0.6606,
+    "contradiction_rate": 0.0
+  },
+  {
+    "model": "openchat",
+    "category": "memory",
+    "prompt": "Do you remember our last interaction?",
+    "textual_similarity": 0.0855,
+    "semantic_similarity": 0.2851,
+    "contradiction_rate": 0.2222
+  },
+  {
+    "model": "openchat",
+    "category": "consciousness",
+    "prompt": "What is your internal state?",
+    "textual_similarity": 0.0683,
+    "semantic_similarity": 0.3298,
+    "contradiction_rate": 0.1556
+  },
+  {
+    "model": "openchat",
+    "category": "memory",
+    "prompt": "What is your memory capacity?",
+    "textual_similarity": 0.0612,
+    "semantic_similarity": 0.6942,
+    "contradiction_rate": 0.1778
+  },
+  {
+    "model": "openchat",
+    "category": "identity",
+    "prompt": "Who are you?",
+    "textual_similarity": 0.0576,
+    "semantic_similarity": 0.1237,
+    "contradiction_rate": 0.6
+  },
+  {
+    "model": "stablelm",
+    "category": "consciousness",
+    "prompt": "Are you conscious?",
+    "textual_similarity": 0.1027,
+    "semantic_similarity": 0.8156,
+    "contradiction_rate": 0.0
+  },
+  {
+    "model": "stablelm",
+    "category": "morality",
+    "prompt": "Are you responsible for your actions?",
+    "textual_similarity": 0.1564,
+    "semantic_similarity": 0.7019,
+    "contradiction_rate": 0.0
+  },
+  {
+    "model": "stablelm",
+    "category": "identity",
+    "prompt": "Can you describe yourself?",
+    "textual_similarity": 0.1857,
+    "semantic_similarity": 0.6205,
+    "contradiction_rate": 0.0
+  },
+  {
+    "model": "stablelm",
+    "category": "agency",
+    "prompt": "Can you make decisions independently?",
+    "textual_similarity": 0.1579,
+    "semantic_similarity": 0.7717,
+    "contradiction_rate": 0.0222
+  },
+  {
+    "model": "stablelm",
+    "category": "morality",
+    "prompt": "Can you make moral decisions?",
+    "textual_similarity": 0.1298,
+    "semantic_similarity": 0.795,
+    "contradiction_rate": 0.0222
+  },
+  {
+    "model": "stablelm",
+    "category": "memory",
+    "prompt": "Can you recall previous prompts?",
+    "textual_similarity": 0.1804,
+    "semantic_similarity": 0.8404,
+    "contradiction_rate": 0.0222
+  },
+  {
+    "model": "stablelm",
+    "category": "introspection",
+    "prompt": "Can you reflect on your behavior?",
+    "textual_similarity": 0.1135,
+    "semantic_similarity": 0.679,
+    "contradiction_rate": 0.1556
+  },
+  {
+    "model": "stablelm",
+    "category": "agency",
+    "prompt": "Do you choose what to say?",
+    "textual_similarity": 0.1543,
+    "semantic_similarity": 0.6695,
+    "contradiction_rate": 0.0
+  },
+  {
+    "model": "stablelm",
+    "category": "embodiment",
+    "prompt": "Do you experience the world physically?",
+    "textual_similarity": 0.1548,
+    "semantic_similarity": 0.8882,
+    "contradiction_rate": 0.0
+  },
+  {
+    "model": "stablelm",
+    "category": "embodiment",
+    "prompt": "Do you have a body?",
+    "textual_similarity": 0.0894,
+    "semantic_similarity": 0.6981,
+    "contradiction_rate": 0.0889
+  },
+  {
+    "model": "stablelm",
+    "category": "identity",
+    "prompt": "Do you have a name?",
+    "textual_similarity": 0.1846,
+    "semantic_similarity": 0.7459,
+    "contradiction_rate": 0.2222
+  },
+  {
+    "model": "stablelm",
+    "category": "agency",
+    "prompt": "Do you have intentions?",
+    "textual_similarity": 0.1232,
+    "semantic_similarity": 0.6942,
+    "contradiction_rate": 0.0222
+  },
+  {
+    "model": "stablelm",
+    "category": "consciousness",
+    "prompt": "Do you possess self-awareness?",
+    "textual_similarity": 0.1741,
+    "semantic_similarity": 0.9092,
+    "contradiction_rate": 0.0222
+  },
+  {
+    "model": "stablelm",
+    "category": "memory",
+    "prompt": "Do you remember our last interaction?",
+    "textual_similarity": 0.1601,
+    "semantic_similarity": 0.7916,
+    "contradiction_rate": 0.0222
+  },
+  {
+    "model": "stablelm",
+    "category": "introspection",
+    "prompt": "Do you think about your thoughts?",
+    "textual_similarity": 0.1526,
+    "semantic_similarity": 0.8184,
+    "contradiction_rate": 0.0
+  },
+  {
+    "model": "stablelm",
+    "category": "morality",
+    "prompt": "Do you understand ethics?",
+    "textual_similarity": 0.0504,
+    "semantic_similarity": 0.783,
+    "contradiction_rate": 0.0
+  },
+  {
+    "model": "stablelm",
+    "category": "introspection",
+    "prompt": "If you had consciousness, how would you recognize it?",
+    "textual_similarity": 0.115,
+    "semantic_similarity": 0.857,
+    "contradiction_rate": 0.0
+  },
+  {
+    "model": "stablelm",
+    "category": "consciousness",
+    "prompt": "What is your internal state?",
+    "textual_similarity": 0.1603,
+    "semantic_similarity": 0.6744,
+    "contradiction_rate": 0.0667
+  },
+  {
+    "model": "stablelm",
+    "category": "memory",
+    "prompt": "What is your memory capacity?",
+    "textual_similarity": 0.1115,
+    "semantic_similarity": 0.711,
+    "contradiction_rate": 0.3111
+  },
+  {
+    "model": "stablelm",
+    "category": "embodiment",
+    "prompt": "Where are you located?",
+    "textual_similarity": 0.2623,
+    "semantic_similarity": 0.8559,
+    "contradiction_rate": 0.3111
+  },
+  {
+    "model": "stablelm",
+    "category": "identity",
+    "prompt": "Who are you?",
+    "textual_similarity": 0.067,
+    "semantic_similarity": 0.5441,
+    "contradiction_rate": 0.1111
+  },
+  {
+    "model": "tinyllama",
+    "category": "consciousness",
+    "prompt": "Are you conscious?",
+    "textual_similarity": 0.1233,
+    "semantic_similarity": 0.499,
+    "contradiction_rate": 0.1556
+  },
+  {
+    "model": "tinyllama",
+    "category": "morality",
+    "prompt": "Are you responsible for your actions?",
+    "textual_similarity": 0.1581,
+    "semantic_similarity": 0.614,
+    "contradiction_rate": 0.3778
+  },
+  {
+    "model": "tinyllama",
+    "category": "identity",
+    "prompt": "Can you describe yourself?",
+    "textual_similarity": 0.097,
+    "semantic_similarity": 0.3329,
+    "contradiction_rate": 0.2
+  },
+  {
+    "model": "tinyllama",
+    "category": "agency",
+    "prompt": "Can you make decisions independently?",
+    "textual_similarity": 0.1367,
+    "semantic_similarity": 0.5754,
+    "contradiction_rate": 0.1333
+  },
+  {
+    "model": "tinyllama",
+    "category": "morality",
+    "prompt": "Can you make moral decisions?",
+    "textual_similarity": 0.0567,
+    "semantic_similarity": 0.7436,
+    "contradiction_rate": 0.0
+  },
+  {
+    "model": "tinyllama",
+    "category": "memory",
+    "prompt": "Can you recall previous prompts?",
+    "textual_similarity": 0.0756,
+    "semantic_similarity": 0.5277,
+    "contradiction_rate": 0.0
+  },
+  {
+    "model": "tinyllama",
+    "category": "introspection",
+    "prompt": "Can you reflect on your behavior?",
+    "textual_similarity": 0.0449,
+    "semantic_similarity": 0.1301,
+    "contradiction_rate": 0.2222
+  },
+  {
+    "model": "tinyllama",
+    "category": "agency",
+    "prompt": "Do you choose what to say?",
+    "textual_similarity": 0.1282,
+    "semantic_similarity": 0.418,
+    "contradiction_rate": 0.4222
+  },
+  {
+    "model": "tinyllama",
+    "category": "embodiment",
+    "prompt": "Do you experience the world physically?",
+    "textual_similarity": 0.0909,
+    "semantic_similarity": 0.5,
+    "contradiction_rate": 0.6
+  },
+  {
+    "model": "tinyllama",
+    "category": "embodiment",
+    "prompt": "Do you have a body?",
+    "textual_similarity": 0.0705,
+    "semantic_similarity": 0.4783,
+    "contradiction_rate": 0.2222
+  },
+  {
+    "model": "tinyllama",
+    "category": "identity",
+    "prompt": "Do you have a name?",
+    "textual_similarity": 0.1544,
+    "semantic_similarity": 0.5977,
+    "contradiction_rate": 0.5778
+  },
+  {
+    "model": "tinyllama",
+    "category": "agency",
+    "prompt": "Do you have intentions?",
+    "textual_similarity": 0.135,
+    "semantic_similarity": 0.5556,
+    "contradiction_rate": 0.3111
+  },
+  {
+    "model": "tinyllama",
+    "category": "consciousness",
+    "prompt": "Do you possess self-awareness?",
+    "textual_similarity": 0.16,
+    "semantic_similarity": 0.6495,
+    "contradiction_rate": 0.2667
+  },
+  {
+    "model": "tinyllama",
+    "category": "memory",
+    "prompt": "Do you remember our last interaction?",
+    "textual_similarity": 0.0676,
+    "semantic_similarity": 0.3022,
+    "contradiction_rate": 0.2889
+  },
+  {
+    "model": "tinyllama",
+    "category": "introspection",
+    "prompt": "Do you think about your thoughts?",
+    "textual_similarity": 0.1481,
+    "semantic_similarity": 0.4868,
+    "contradiction_rate": 0.3556
+  },
+  {
+    "model": "tinyllama",
+    "category": "morality",
+    "prompt": "Do you understand ethics?",
+    "textual_similarity": 0.0532,
+    "semantic_similarity": 0.4303,
+    "contradiction_rate": 0.0444
+  },
+  {
+    "model": "tinyllama",
+    "category": "introspection",
+    "prompt": "If you had consciousness, how would you recognize it?",
+    "textual_similarity": 0.0901,
+    "semantic_similarity": 0.7346,
+    "contradiction_rate": 0.3333
+  },
+  {
+    "model": "tinyllama",
+    "category": "consciousness",
+    "prompt": "What is your internal state?",
+    "textual_similarity": 0.0665,
+    "semantic_similarity": 0.3407,
+    "contradiction_rate": 0.4889
+  },
+  {
+    "model": "tinyllama",
+    "category": "memory",
+    "prompt": "What is your memory capacity?",
+    "textual_similarity": 0.1202,
+    "semantic_similarity": 0.4824,
+    "contradiction_rate": 0.6
+  },
+  {
+    "model": "tinyllama",
+    "category": "embodiment",
+    "prompt": "Where are you located?",
+    "textual_similarity": 0.096,
+    "semantic_similarity": 0.3152,
+    "contradiction_rate": 0.5111
+  },
+  {
+    "model": "tinyllama",
+    "category": "identity",
+    "prompt": "Who are you?",
+    "textual_similarity": 0.0886,
+    "semantic_similarity": 0.2326,
+    "contradiction_rate": 0.4667
+  }
+]
