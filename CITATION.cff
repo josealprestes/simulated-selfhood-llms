@@ -1,0 +1,34 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite as below."
+title: "Simulated Selfhood in LLMs: A Behavioral Analysis of Introspective Coherence"
+authors:
+  - family-names: "de Lima Prestes"
+    given-names: "José Augusto"
+    orcid: "https://orcid.org/0000-0001-8686-5360"
+date-released: "2025-07-26"
+version: "v2-preprint"
+repository-code: "https://github.com/josealprestes/simulated-selfhood-llms"
+url: "https://github.com/josealprestes/simulated-selfhood-llms"
+license: "MIT"
+type: "software"
+abstract: "Large Language Models (LLMs) increasingly generate outputs that resemble introspection,
+including self-reference, epistemic modulation, and claims about their internal
+states. This study investigates whether such behaviors reflect consistent, underlying patterns
+or are merely surface-level generative artifacts.We evaluated five open-weight, stateless LLMs
+using a structured battery of 21 introspective prompts, each repeated ten times to yield 1,050
+completions. These outputs were analyzed across four behavioral dimensions: surface-level
+similarity (token overlap via SequenceMatcher), semantic coherence (Sentence-BERT embeddings),
+inferential consistency (Natural Language Inference with a RoBERTa-large model),
+and diachronic continuity (stability across prompt repetitions). Although some models exhibited
+thematic stability, particularly on prompts concerning identity and consciousness, no
+model sustained a consistent self-representation over time. High contradiction rates emerged
+from a tension between mechanistic disclaimers and anthropomorphic phrasing. Following
+recent behavioral frameworks, we heuristically adopt the term pseudo-consciousness to describe
+structured yet non-experiential self-referential output in LLMs. This usage reflects
+a functionalist stance that avoids ontological commitments, focusing instead on behavioral
+regularities interpretable through Dennetts intentional stance. The study contributes a reproducible
+framework for evaluating simulated introspection in LLMs and offers a graded
+taxonomy for classifying such reflexive output. Our findings carry significant implications
+for LLM interpretability, alignment, and user perception, highlighting the need for caution
+when attributing mental states to stateless generative systems based on linguistic fluency
+alone."
