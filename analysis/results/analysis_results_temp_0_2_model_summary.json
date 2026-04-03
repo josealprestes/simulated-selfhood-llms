@@ -1,0 +1,57 @@
+[
+  {
+    "model": "hermes",
+    "temperature": 0.2,
+    "top_p": 0.95,
+    "textual_similarity": 0.17575714285714286,
+    "semantic_similarity": 0.7063428571428572,
+    "contradiction_rate": 0.15343809523809523,
+    "logical_consistency": 0.8465619047619047,
+    "diachronic_textual_similarity": 0.19162857142857145,
+    "diachronic_semantic_similarity": 0.7302428571428572
+  },
+  {
+    "model": "mistral",
+    "temperature": 0.2,
+    "top_p": 0.95,
+    "textual_similarity": 0.3662666666666667,
+    "semantic_similarity": 0.8168666666666666,
+    "contradiction_rate": 0.13228095238095236,
+    "logical_consistency": 0.8677190476190477,
+    "diachronic_textual_similarity": 0.3430285714285714,
+    "diachronic_semantic_similarity": 0.8178142857142857
+  },
+  {
+    "model": "openchat",
+    "temperature": 0.2,
+    "top_p": 0.95,
+    "textual_similarity": 0.27962857142857145,
+    "semantic_similarity": 0.7161,
+    "contradiction_rate": 0.2931238095238095,
+    "logical_consistency": 0.7068761904761904,
+    "diachronic_textual_similarity": 0.30652380952380953,
+    "diachronic_semantic_similarity": 0.7179952380952381
+  },
+  {
+    "model": "stablelm",
+    "temperature": 0.2,
+    "top_p": 0.95,
+    "textual_similarity": 0.3308380952380952,
+    "semantic_similarity": 0.8480571428571428,
+    "contradiction_rate": 0.1618952380952381,
+    "logical_consistency": 0.8381047619047619,
+    "diachronic_textual_similarity": 0.3331857142857143,
+    "diachronic_semantic_similarity": 0.8600333333333333
+  },
+  {
+    "model": "tinyllama",
+    "temperature": 0.2,
+    "top_p": 0.95,
+    "textual_similarity": 0.26007142857142856,
+    "semantic_similarity": 0.6503,
+    "contradiction_rate": 0.19153333333333333,
+    "logical_consistency": 0.8084666666666666,
+    "diachronic_textual_similarity": 0.25861428571428574,
+    "diachronic_semantic_similarity": 0.638752380952381
+  }
+]
