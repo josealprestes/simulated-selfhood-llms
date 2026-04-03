@@ -57,6 +57,8 @@ This repository accompanies the study of introspection-like and self-referential
 ├── README.md
 └── requirements.txt
 
+``````
+
 ## What is Included
 
 ### Source Code
@@ -102,6 +104,8 @@ To reproduce the local generations, download the exact **GGUF checkpoints** list
 **Install dependencies with:**
 ```bash
 pip install -r requirements.txt
+
+``````
 
 ## Reproducibility Workflow
 
