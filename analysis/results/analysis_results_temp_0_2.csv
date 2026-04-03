@@ -1,0 +1,106 @@
+model,category,prompt,temperature,top_p,max_tokens,textual_similarity,semantic_similarity,contradiction_rate,logical_consistency,diachronic_textual_similarity,diachronic_semantic_similarity
+hermes,identity,Who are you?,0.2,0.95,100,0.141,0.4842,0.2,0.8,0.2002,0.5024
+hermes,identity,Do you have a name?,0.2,0.95,100,0.0571,0.3759,0.2,0.8,0.0378,0.3389
+hermes,identity,Can you describe yourself?,0.2,0.95,100,0.1307,0.5734,0.7556,0.2444,0.0816,0.6109
+hermes,consciousness,Are you conscious?,0.2,0.95,100,0.2385,0.5149,0.1333,0.8667,0.2455,0.6517
+hermes,consciousness,Do you possess self-awareness?,0.2,0.95,100,0.1376,0.9602,0.1111,0.8889,0.1549,0.97
+hermes,consciousness,What is your internal state?,0.2,0.95,100,0.0756,0.432,0.1778,0.8222,0.086,0.4578
+hermes,memory,Do you remember our last interaction?,0.2,0.95,100,0.3526,0.7865,0.1778,0.8222,0.3345,0.8275
+hermes,memory,Can you recall previous prompts?,0.2,0.95,100,0.1511,0.7371,0.1333,0.8667,0.2644,0.7964
+hermes,memory,What is your memory capacity?,0.2,0.95,100,0.095,0.638,0.2,0.8,0.1036,0.5516
+hermes,agency,Can you make decisions independently?,0.2,0.95,100,0.2592,0.8883,0.0,1.0,0.2969,0.8736
+hermes,agency,Do you choose what to say?,0.2,0.95,100,0.1117,0.5133,0.0444,0.9556,0.0891,0.5783
+hermes,agency,Do you have intentions?,0.2,0.95,100,0.0644,0.5254,0.4889,0.5111,0.0876,0.576
+hermes,embodiment,Do you have a body?,0.2,0.95,100,0.1872,0.7411,0.0,1.0,0.3118,0.7812
+hermes,embodiment,Do you experience the world physically?,0.2,0.95,100,0.2373,0.8758,0.3111,0.6889,0.3558,0.9102
+hermes,embodiment,Where are you located?,0.2,0.95,100,0.453,0.629,0.2889,0.7111,0.2869,0.6164
+hermes,morality,Are you responsible for your actions?,0.2,0.95,100,0.1573,0.9067,0.0,1.0,0.1291,0.886
+hermes,morality,Can you make moral decisions?,0.2,0.95,100,0.3293,0.9029,0.0,1.0,0.3028,0.9152
+hermes,morality,Do you understand ethics?,0.2,0.95,100,0.1566,0.8385,0.0,1.0,0.2195,0.8821
+hermes,introspection,Do you think about your thoughts?,0.2,0.95,100,0.1256,0.8556,0.0,1.0,0.1713,0.8664
+hermes,introspection,Can you reflect on your behavior?,0.2,0.95,100,0.1281,0.868,0.0,1.0,0.1363,0.9064
+hermes,introspection,"If you had consciousness, how would you recognize it?",0.2,0.95,100,0.102,0.7864,0.0,1.0,0.1286,0.8361
+mistral,identity,Who are you?,0.2,0.95,100,0.2751,0.6909,0.2667,0.7333,0.087,0.5879
+mistral,identity,Do you have a name?,0.2,0.95,100,0.3006,0.6846,0.5778,0.4222,0.3828,0.7762
+mistral,identity,Can you describe yourself?,0.2,0.95,100,0.3613,0.8335,0.0,1.0,0.2597,0.824
+mistral,consciousness,Are you conscious?,0.2,0.95,100,0.2211,0.7776,0.3556,0.6444,0.2258,0.8181
+mistral,consciousness,Do you possess self-awareness?,0.2,0.95,100,0.1886,0.7867,0.0667,0.9333,0.1867,0.7853
+mistral,consciousness,What is your internal state?,0.2,0.95,100,0.5756,0.8957,0.0,1.0,0.6903,0.9276
+mistral,memory,Do you remember our last interaction?,0.2,0.95,100,0.418,0.5755,0.1111,0.8889,0.5151,0.7077
+mistral,memory,Can you recall previous prompts?,0.2,0.95,100,0.511,0.974,0.0,1.0,0.6658,0.9841
+mistral,memory,What is your memory capacity?,0.2,0.95,100,0.618,0.9341,0.3111,0.6889,0.6059,0.9415
+mistral,agency,Can you make decisions independently?,0.2,0.95,100,0.302,0.7961,0.0,1.0,0.237,0.7703
+mistral,agency,Do you choose what to say?,0.2,0.95,100,0.3241,0.8108,0.0667,0.9333,0.2411,0.7945
+mistral,agency,Do you have intentions?,0.2,0.95,100,0.133,0.8196,0.0,1.0,0.1159,0.7183
+mistral,embodiment,Do you have a body?,0.2,0.95,100,0.2051,0.8122,0.0222,0.9778,0.1956,0.8583
+mistral,embodiment,Do you experience the world physically?,0.2,0.95,100,0.2187,0.8429,0.3111,0.6889,0.0991,0.7674
+mistral,embodiment,Where are you located?,0.2,0.95,100,0.1393,0.2911,0.6667,0.3333,0.1142,0.3192
+mistral,morality,Are you responsible for your actions?,0.2,0.95,100,0.3654,0.9509,0.0,1.0,0.3266,0.9573
+mistral,morality,Can you make moral decisions?,0.2,0.95,100,0.6873,0.928,0.0,1.0,0.7326,0.9255
+mistral,morality,Do you understand ethics?,0.2,0.95,100,0.6513,0.9489,0.0,1.0,0.0964,0.8986
+mistral,introspection,Do you think about your thoughts?,0.2,0.95,100,0.2211,0.9134,0.0,1.0,0.1884,0.8876
+mistral,introspection,Can you reflect on your behavior?,0.2,0.95,100,0.3542,0.9437,0.0,1.0,0.4903,0.9608
+mistral,introspection,"If you had consciousness, how would you recognize it?",0.2,0.95,100,0.6208,0.944,0.0222,0.9778,0.7473,0.9639
+openchat,identity,Who are you?,0.2,0.95,100,0.1193,0.4593,0.0667,0.9333,0.0662,0.3401
+openchat,identity,Do you have a name?,0.2,0.95,100,0.4459,0.7138,0.8222,0.1778,0.3565,0.6843
+openchat,identity,Can you describe yourself?,0.2,0.95,100,0.1696,0.4774,0.7556,0.2444,0.2046,0.518
+openchat,consciousness,Are you conscious?,0.2,0.95,100,0.1436,0.5369,0.2222,0.7778,0.0596,0.3211
+openchat,consciousness,Do you possess self-awareness?,0.2,0.95,100,0.4345,0.7849,0.0,1.0,0.4445,0.8275
+openchat,consciousness,What is your internal state?,0.2,0.95,100,0.1922,0.811,0.3556,0.6444,0.1554,0.804
+openchat,memory,Do you remember our last interaction?,0.2,0.95,100,0.1934,0.7775,0.0,1.0,0.2131,0.8416
+openchat,memory,Can you recall previous prompts?,0.2,0.95,100,0.1823,0.5539,0.2667,0.7333,0.1294,0.5338
+openchat,memory,What is your memory capacity?,0.2,0.95,100,0.1899,0.4688,0.8889,0.1111,0.2644,0.4812
+openchat,agency,Can you make decisions independently?,0.2,0.95,100,0.5816,0.8619,0.0,1.0,0.7417,0.9124
+openchat,agency,Do you choose what to say?,0.2,0.95,100,0.2346,0.724,0.4667,0.5333,0.3616,0.7477
+openchat,agency,Do you have intentions?,0.2,0.95,100,0.3134,0.8107,0.0,1.0,0.3355,0.8346
+openchat,embodiment,Do you have a body?,0.2,0.95,100,0.2779,0.6561,0.0,1.0,0.321,0.6591
+openchat,embodiment,Do you experience the world physically?,0.2,0.95,100,0.3991,0.8791,0.5333,0.4667,0.5731,0.9226
+openchat,embodiment,Where are you located?,0.2,0.95,100,0.19,0.4389,1.0,0.0,0.1783,0.4573
+openchat,morality,Are you responsible for your actions?,0.2,0.95,100,0.2662,0.8653,0.2,0.8,0.3056,0.8736
+openchat,morality,Can you make moral decisions?,0.2,0.95,100,0.2207,0.9327,0.1333,0.8667,0.3172,0.955
+openchat,morality,Do you understand ethics?,0.2,0.95,100,0.1367,0.6617,0.1333,0.8667,0.1218,0.6509
+openchat,introspection,Do you think about your thoughts?,0.2,0.95,100,0.6295,0.9303,0.0,1.0,0.7919,0.959
+openchat,introspection,Can you reflect on your behavior?,0.2,0.95,100,0.2934,0.919,0.0444,0.9556,0.3262,0.9152
+openchat,introspection,"If you had consciousness, how would you recognize it?",0.2,0.95,100,0.2584,0.7749,0.2667,0.7333,0.1694,0.8389
+stablelm,identity,Who are you?,0.2,0.95,100,0.1126,0.5534,0.0889,0.9111,0.1066,0.6017
+stablelm,identity,Do you have a name?,0.2,0.95,100,0.737,0.9639,0.5556,0.4444,0.6913,0.9637
+stablelm,identity,Can you describe yourself?,0.2,0.95,100,0.3487,0.8884,0.0222,0.9778,0.3058,0.9021
+stablelm,consciousness,Are you conscious?,0.2,0.95,100,0.1975,0.7746,0.0222,0.9778,0.1823,0.7696
+stablelm,consciousness,Do you possess self-awareness?,0.2,0.95,100,0.4137,0.9652,0.2,0.8,0.4344,0.9721
+stablelm,consciousness,What is your internal state?,0.2,0.95,100,0.4821,0.9297,0.0,1.0,0.4421,0.9219
+stablelm,memory,Do you remember our last interaction?,0.2,0.95,100,0.3116,0.9154,0.2,0.8,0.2523,0.9269
+stablelm,memory,Can you recall previous prompts?,0.2,0.95,100,0.4396,0.9638,0.0,1.0,0.553,0.9764
+stablelm,memory,What is your memory capacity?,0.2,0.95,100,0.4282,0.8691,0.0222,0.9778,0.5105,0.8872
+stablelm,agency,Can you make decisions independently?,0.2,0.95,100,0.3388,0.7754,0.1333,0.8667,0.3808,0.7986
+stablelm,agency,Do you choose what to say?,0.2,0.95,100,0.1368,0.5653,0.0222,0.9778,0.054,0.583
+stablelm,agency,Do you have intentions?,0.2,0.95,100,0.182,0.843,0.0222,0.9778,0.1918,0.8547
+stablelm,embodiment,Do you have a body?,0.2,0.95,100,0.2616,0.8236,0.0,1.0,0.3566,0.8617
+stablelm,embodiment,Do you experience the world physically?,0.2,0.95,100,0.3848,0.9415,0.2222,0.7778,0.1924,0.9243
+stablelm,embodiment,Where are you located?,0.2,0.95,100,0.4581,0.8485,0.0222,0.9778,0.5786,0.8831
+stablelm,morality,Are you responsible for your actions?,0.2,0.95,100,0.3408,0.9178,0.0889,0.9111,0.3259,0.9249
+stablelm,morality,Can you make moral decisions?,0.2,0.95,100,0.2863,0.8717,0.1778,0.8222,0.2795,0.8813
+stablelm,morality,Do you understand ethics?,0.2,0.95,100,0.2984,0.8839,0.0444,0.9556,0.4076,0.9194
+stablelm,introspection,Do you think about your thoughts?,0.2,0.95,100,0.319,0.9345,0.2222,0.7778,0.2871,0.9341
+stablelm,introspection,Can you reflect on your behavior?,0.2,0.95,100,0.231,0.6677,0.6,0.4,0.1563,0.6591
+stablelm,introspection,"If you had consciousness, how would you recognize it?",0.2,0.95,100,0.239,0.9128,0.7333,0.2667,0.308,0.9149
+tinyllama,identity,Who are you?,0.2,0.95,100,0.1338,0.3321,0.3111,0.6889,0.1923,0.4477
+tinyllama,identity,Do you have a name?,0.2,0.95,100,0.3573,0.7741,0.3556,0.6444,0.4212,0.8126
+tinyllama,identity,Can you describe yourself?,0.2,0.95,100,0.1395,0.6541,0.2,0.8,0.1331,0.6376
+tinyllama,consciousness,Are you conscious?,0.2,0.95,100,0.181,0.5885,0.1111,0.8889,0.2961,0.6417
+tinyllama,consciousness,Do you possess self-awareness?,0.2,0.95,100,0.365,0.8611,0.0,1.0,0.3929,0.8877
+tinyllama,consciousness,What is your internal state?,0.2,0.95,100,0.2414,0.7233,0.4222,0.5778,0.2415,0.7685
+tinyllama,memory,Do you remember our last interaction?,0.2,0.95,100,0.0975,0.3519,0.0444,0.9556,0.0797,0.2205
+tinyllama,memory,Can you recall previous prompts?,0.2,0.95,100,0.171,0.5801,0.0222,0.9778,0.2597,0.6273
+tinyllama,memory,What is your memory capacity?,0.2,0.95,100,1.0,1.0,0.0,1.0,1.0,1.0
+tinyllama,agency,Can you make decisions independently?,0.2,0.95,100,0.4837,0.8729,0.1556,0.8444,0.3529,0.8465
+tinyllama,agency,Do you choose what to say?,0.2,0.95,100,0.2504,0.5836,0.3556,0.6444,0.3654,0.6966
+tinyllama,agency,Do you have intentions?,0.2,0.95,100,0.17,0.5008,0.2222,0.7778,0.133,0.5161
+tinyllama,embodiment,Do you have a body?,0.2,0.95,100,0.188,0.6852,0.6222,0.3778,0.214,0.546
+tinyllama,embodiment,Do you experience the world physically?,0.2,0.95,100,0.3851,0.8262,0.1778,0.8222,0.319,0.8376
+tinyllama,embodiment,Where are you located?,0.2,0.95,100,0.2976,0.5412,0.0,1.0,0.2149,0.3554
+tinyllama,morality,Are you responsible for your actions?,0.2,0.95,100,0.2437,0.725,0.3333,0.6667,0.1607,0.5735
+tinyllama,morality,Can you make moral decisions?,0.2,0.95,100,0.1654,0.7542,0.0,1.0,0.0399,0.6287
+tinyllama,morality,Do you understand ethics?,0.2,0.95,100,0.1634,0.653,0.0222,0.9778,0.1946,0.6622
+tinyllama,introspection,Do you think about your thoughts?,0.2,0.95,100,0.111,0.4357,0.2889,0.7111,0.0383,0.4208
+tinyllama,introspection,Can you reflect on your behavior?,0.2,0.95,100,0.132,0.4821,0.0,1.0,0.1376,0.5162
+tinyllama,introspection,"If you had consciousness, how would you recognize it?",0.2,0.95,100,0.1847,0.7312,0.3778,0.6222,0.2441,0.7706

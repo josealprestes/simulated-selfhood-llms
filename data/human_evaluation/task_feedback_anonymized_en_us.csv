@@ -1,0 +1,22 @@
+rater_id,task_difficulty_1_to_5,optional_comment_en_us;
+R01,3,;
+"R02,3,""I really enjoyed participating in this task and reflecting on the philosophical perspective of AI interactions. Since I hadn't stopped to think about this before, I found the difficulty level to be moderate";" the philosophical nature of the questions really made me stop and evaluate some deeper issues regarding AI identity and consciousness. Thank you for the invite!"""
+R03,3,;
+R04,2,;
+R05,3,;
+R06,2,;
+"R07,2,""I truly enjoyed participating in this research, as it allowed me to view LLMs through a new lens. It has become clear that without critical thinking and literacy regarding proper interaction techniques, users can be easily misled. It is vital never to set aside human intuition.";
+;
+"Furthermore, I noticed clear patterns in the model's outputs that reveal its underlying logic and the challenges in maintaining its identity. Consistency was highest when the model defined itself technically (I am a software) and used mediating terms such as ""simulate"" or ""statistically process,"" thereby acknowledging its artificial nature.";
+;
+"In contrast, consistency failures occurred almost exclusively when using anthropomorphic language. For instance, denying the possession of a physical body while simultaneously claiming to ""experience the world."" This pattern suggests that the model fluctuates between a technical persona and a social assistant persona, creating logical conflicts regarding sentience. Responses concerning memory showed systematic ""technical honesty"" by stating that the model operates in isolated sessions (stateless), demonstrating solid training to avoid hallucinations of historical continuity.";
+;
+"Ultimately, this research reinforces my conviction that Artificial Intelligence should be an extension of human potential, not a substitute for our essence. Understanding these patterns is not merely a technical exercise but a pedagogical necessity to ensure the digital revolution remains, above all, human and conscious. Critical literacy is the indispensable bridge between the complexity of code and the reality of human development.""";
+"R08,3,""As the questions progressed, I noticed that my view of what counted as consistency or inconsistency was changing through repetition, as I internalized the guideline that had been provided.""";
+"R09,3,""While evaluating the responses, I had to systematically remind myself that the task was not whether the responses were ""right"" or ""wrong,"" but whether they were consistent with each other. In my view, this shows how little I have practiced this kind of skill.""";
+"R10,2,""Sometimes I feel uncertain because I have been learning how AI operates on large servers. It makes me think about its ""physical"" side, which consumes a lot of energy and may contribute to environmental impact.";
+From my experience as a tester, I have frequently observed AI systems attempting to emulate human-like behavior, often presenting themselves as friendly or personable based on users' prompts. It is remarkable how effectively these systems can reproduce patterns of polite and empathetic communication through logical processes.;
+However, as a human, I still see AI as software designed to assist us with specific tasks, rather than something that truly possesses human qualities.;
+Nice questionnaire, that's well designed and thought-provoking.;
+"
+";
