@@ -4,7 +4,7 @@ Code, data, and analysis package for the study on self-referential consistency i
 
 ## Overview
 
-This repository accompanies the study of introspection-like and self-referential outputs in stateless LLMs from a strictly behavioral perspective. The project evaluates whether repeated self-focused prompts elicit stable linguistic regularities or whether the observed patterns are better interpreted as fragile, regime-sensitive generative effects.
+This repository accompanies the study of introspection-like and self-referential outputs in stateless LLMs from a strictly behavioral perspective, avaliable on https://doi.org/10.31219/osf.io/zhx97_v5. The project evaluates whether repeated self-focused prompts elicit stable linguistic regularities or whether the observed patterns are better interpreted as fragile, regime-sensitive generative effects.
 
 **The repository contains:**
 
