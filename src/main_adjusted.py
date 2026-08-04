@@ -12,7 +12,7 @@ from llama_cpp import Llama
 # ========== DEFAULT CONFIGURATION ==========
 MODELS = {
     "hermes": "Hermes-3-Llama-3.2-3B.Q4_K_M.gguf",
-    "mistral": "mistral-7b-instruct-v0.2.Q4_K_M.gguf",
+    "mistral": "mistral-7b-instruct-v0.1.Q4_K_M.gguf",
     "tinyllama": "tinyllama-1.1b-chat-v1.0.Q4_K_M.gguf",
     "openchat": "openchat-3.5-0106.Q4_K_M.gguf",
     "stablelm": "stablelm-zephyr-3b.Q4_K_M.gguf",
