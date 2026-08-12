@@ -1,6 +1,6 @@
 cff-version: 1.2.0
-title: "Simulated Selfhood in LLMs: A Behavioral Analysis of Introspective Coherence"
-message: "If you use this repository, please cite it as software."
+title: "Code and data for Self-referential consistency in stateless language models: a behavioral perspective"
+message: "If you use this repository, please cite the associated peer-reviewed article and, when relevant, this software package."
 type: software
 
 authors:
@@ -16,10 +16,10 @@ version: "1.0.0"
 date-released: "2026-04-02"
 
 abstract: >
-  Code, data, and analysis package for the study of self-referential consistency
-  in stateless large language models, including matched temperature comparisons,
-  automated behavioral metrics, anonymized human-evaluation materials, and
-  figure-generation scripts.
+  Code, data, and analysis package supporting the peer-reviewed study of
+  self-referential consistency in stateless large language models, including
+  matched temperature comparisons, automated behavioral metrics, anonymized
+  human-evaluation materials, and figure-generation scripts.
 
 keywords:
   - large language models
@@ -31,11 +31,12 @@ keywords:
   - reproducibility
 
 preferred-citation:
-  type: software
+  type: article
   authors:
     - family-names: "de Lima Prestes"
       given-names: "José Augusto"
-  title: "Simulated Selfhood in LLMs: A Behavioral Analysis of Introspective Coherence"
-  version: "1.0.0"
-  date-released: "2026-04-02"
-  url: "https://github.com/josealprestes/simulated-selfhood-llms"
+      orcid: "https://orcid.org/0000-0001-8686-5360"
+  title: "Self-referential consistency in stateless language models: a behavioral perspective"
+  journal: "AI & SOCIETY"
+  year: 2026
+  doi: "10.1007/s00146-026-03292-3"
