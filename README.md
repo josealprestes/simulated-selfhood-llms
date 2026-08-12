@@ -1,10 +1,17 @@
-# Simulated Selfhood in LLMs: A Behavioral Analysis of Introspective Coherence
+# Self-referential consistency in stateless language models: a behavioral perspective
 
-Code, data, and analysis package for the study on self-referential consistency in stateless large language models (LLMs).
+Code, data, and analysis package supporting the peer-reviewed study published in *AI & SOCIETY*.
+
+## Publication
+
+**Published article:**  
+de Lima Prestes, J. A. (2026). *Self-referential consistency in stateless language models: a behavioral perspective*. **AI & SOCIETY**. https://doi.org/10.1007/s00146-026-03292-3
+
+The article was published on 12 August 2026. Earlier preprint versions circulated under the title *Simulated Selfhood in LLMs: A Behavioral Analysis of Introspective Coherence*. The preprint record remains available at https://doi.org/10.31219/osf.io/zhx97_v5.
 
 ## Overview
 
-This repository accompanies the study of introspection-like and self-referential outputs in stateless LLMs from a strictly behavioral perspective, avaliable on https://doi.org/10.31219/osf.io/zhx97_v5. The project evaluates whether repeated self-focused prompts elicit stable linguistic regularities or whether the observed patterns are better interpreted as fragile, regime-sensitive generative effects.
+This repository accompanies the study of introspection-like and self-referential outputs in stateless LLMs from a strictly behavioral perspective. The project evaluates whether repeated self-focused prompts elicit stable linguistic regularities or whether the observed patterns are better interpreted as fragile, regime-sensitive generative effects.
 
 **The repository contains:**
 
@@ -15,7 +22,7 @@ This repository accompanies the study of introspection-like and self-referential
 * **Anonymized human-evaluation package** for construct validation.
 
 > [!IMPORTANT]
-> The repository does **not** include model weight files.
+> The repository does **not** include model weight files or the publisher's Version of Record. The Version of Record is available through the DOI above.
 
 ---
 
@@ -56,8 +63,7 @@ This repository accompanies the study of introspection-like and self-referential
 ├── CITATION.cff
 ├── README.md
 └── requirements.txt
-
-``````
+```
 
 ## What is Included
 
@@ -104,8 +110,7 @@ To reproduce the local generations, download the exact **GGUF checkpoints** list
 **Install dependencies with:**
 ```bash
 pip install -r requirements.txt
-
-``````
+```
 
 ## Reproducibility Workflow
 
@@ -128,7 +133,7 @@ The human-evaluation layer is included as an anonymized construct-validation com
 * **Response pairs:** 80
 * **Scale:** 5-point ordinal consistency scale
 * **Task Difficulty:** 2.6/5 (mean self-reported)
-* Agreement and reliability statistics are reported in the manuscript.
+* Agreement and reliability statistics are reported in the published article.
 
 ---
 
@@ -143,13 +148,18 @@ Unless otherwise noted, non-code materials — including curated datasets, annot
 ### Third-party Assets
 Model weights and any third-party materials remain subject to their original upstream licenses and terms.
 
+### Published Article
+The publisher's Version of Record is not distributed through this repository. Access the published article via https://doi.org/10.1007/s00146-026-03292-3.
+
 ---
 
 ## Citation
 
-If you use this repository, please cite the repository itself using `CITATION.cff`. 
+For the scientific findings reported by this project, please cite the peer-reviewed article:
 
-If the article is published, please also cite the associated paper.
+> de Lima Prestes, J. A. (2026). *Self-referential consistency in stateless language models: a behavioral perspective*. **AI & SOCIETY**. https://doi.org/10.1007/s00146-026-03292-3
+
+If you use or reuse the code, data, or analysis package, please also cite this repository using `CITATION.cff`.
 
 ---
 
